@@ -1,6 +1,9 @@
 # liri-node-app
 
 Node.js Assignment
+
+To view the output from LIRI, please view the file above title "liriappworks.png"
+
 About the App:
 LIRI is a Language Interpretation and Recognition Interface and is a command line node app. It takes in parameters and gives back data. The following commands can be run using the LIRI Bot
 
@@ -13,8 +16,6 @@ Steps to Reproduce (STRs):
 1. Open terminal.
 2. Navigate to the folder containing the liri.js file.
 3. Depending on the command line you run, the output will vary.
-
-![](liriappworks.png)
 
 Summary:
 The bot is able to connect with Spotify's API and run commands to pull information from OMDB and BandsinTown
