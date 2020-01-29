@@ -18,7 +18,7 @@ Summary:
 The bot is able to connect with Spotify's API and run commands to pull information from OMDB and BandsinTown
 
 Deployed Version Link:
-https://chelsea4crooke.github.io/liri-node-app/
+
 
 Technologies Used:
 1. Javascript
