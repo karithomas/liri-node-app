@@ -14,6 +14,8 @@ Steps to Reproduce (STRs):
 2. Navigate to the folder containing the liri.js file.
 3. Depending on the command line you run, the output will vary.
 
+![](liriappworks.png)
+
 Summary:
 The bot is able to connect with Spotify's API and run commands to pull information from OMDB and BandsinTown
 
